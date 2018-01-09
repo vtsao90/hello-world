@@ -1,2 +1,4 @@
 # hello-world
-The grand tradition
+Following the grand tradition!
+
+Experimenting. :)
